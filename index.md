@@ -5,7 +5,3 @@
 layout: default
 ---
 
-![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/3.png?raw=true){: style="color:gray; width: 60vw; text-align: center;"}
-<br>
-<h1 style="color:gray; font-size:1em; text-align: center>{{ "Coming Soon!" | downcase }}</h1>
-
