@@ -1,4 +1,4 @@
-name: Jekyll site CI
+name: Final Jkyl
 
 on:
   push:
@@ -20,3 +20,5 @@ jobs:
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           -e PAGES_REPO_NWO=${{ github.repository }} \
           jekyll/builder:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+      
+
