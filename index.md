@@ -6,6 +6,6 @@ title: About
 ![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/3.png?raw=true){: style="color:gray; max-height: 20vh; text-align: center;"}
 
 <br>
-<h1 style="color:gray; font-size:1em; text-align: center> {{ "Coming Soon!" | downcase }} </h1>
+<h1 style="text-align: center"> {{ "Coming Soon!" | downcase }} </h1>
                                                                           
                                                                           
