@@ -5,7 +5,8 @@
 layout: default
 ---
 
-![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true){: style="color:gray; font-size: 80%; text-align: center;"}
+![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true)
+{: style="color:gray; width: 60vw; text-align: center;"}
 
 
 Coming soon
