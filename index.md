@@ -2,8 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: about
 ---
-![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true) {.style="text-align: center; max-width:60vw "}
-
-<h1 >{{Coming Soon}}</h1> {.style="font-color:gray; text-align:center; "}
+![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/3.png?raw=true){: style="color:gray; width: 60vw; text-align: center;"}
+<br>
+<h1 style="color:gray; font-size:1em; text-align: center>{{ "Coming Soon!" | downcase }}</h1>
