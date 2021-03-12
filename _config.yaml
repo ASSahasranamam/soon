@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Soon
-email: youremailaddress
+email: adi.sahasranamam@gmail.com
 phone: 0123456789
 description: A coming soon page for Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ASSahasranamam.github.io/soon/" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: alternatyves
-github_username: YJPL
+github_username: assahasranamam
 
 # Build settings
 markdown: kramdown
@@ -36,8 +36,8 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
+exclude:
+   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
