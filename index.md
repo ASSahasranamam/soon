@@ -9,4 +9,4 @@ layout: default
 
 
 Coming soon
-{: style="color:gray; font-size: 1rem; text-align: center;"}
+{.title : style="color:gray; text-align: center;"}
