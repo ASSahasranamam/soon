@@ -1,6 +1,16 @@
 head {
 }
 
+.Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
+}
+
 body {
 	border-top: 6px solid #000;
 	color: transparent;
