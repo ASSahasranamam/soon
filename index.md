@@ -4,4 +4,6 @@
 
 layout: default
 ---
-![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true)
+![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true) {.style="text-align: center; max-width:60vw "}
+
+<h1 >{{Coming Soon}}</h1> {.style="font-color:gray; text-align:center; "}
