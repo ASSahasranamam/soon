@@ -19,6 +19,8 @@ phone: 0123456789
 description: A coming soon page for Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ASSahasranamam.github.io/soon/" # the base hostname & protocol for your site, e.g. http://example.com
+background-image: url('/images/IMAGE_NAME.jpg')
+
 twitter_username: alternatyves
 github_username: YJPL
 
