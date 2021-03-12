@@ -5,15 +5,8 @@
 layout: default
 ---
 
-# Soon
+![About 4](https://github.com/ASSahasranamam/thesis/blob/primary/thesis/logo.png?raw=true){: style="color:gray; font-size: 80%; text-align: center;"}
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
 
-## What's in it?
-
-HEllo
-***
-
-## Get started
-
-[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).
+Coming soon
+{: style="color:gray; font-size: 80%; text-align: center;"}
