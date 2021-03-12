@@ -34,14 +34,12 @@ body {
 	
 #container {
 	margin: 20px auto;
-	max-width: 600px;
-	width: 60%;
+	width: 80%;
 	min-width: 260px;
 	margin: 10px auto 0 auto;
-	text-align: left;
+	text-align: center;
 	position: relative;
 	padding: 25px;
-	background: transparent url(img/#black50.png);
 	background: rgba(255,255,255,0.24) none;
 	-moz-border-radius: 12px;
 	-webkit-border-radius: 4px;
